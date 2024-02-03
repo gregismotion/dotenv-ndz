@@ -1,0 +1,8 @@
+pyproject.toml
+requirements.txt
+dotenv_ndz.egg-info/PKG-INFO
+dotenv_ndz.egg-info/SOURCES.txt
+dotenv_ndz.egg-info/dependency_links.txt
+dotenv_ndz.egg-info/requires.txt
+dotenv_ndz.egg-info/top_level.txt
+dotenv_ndz/dotenv/get_var/__main__.py
